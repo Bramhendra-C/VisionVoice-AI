@@ -1,0 +1,10 @@
+opencv-python
+speechrecognition
+pyttsx3
+pyaudio
+requests
+pyjokes
+wikipedia
+pywhatkit
+pygame
+numpy
