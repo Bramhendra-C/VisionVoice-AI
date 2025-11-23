@@ -10,7 +10,7 @@ import webbrowser
 import threading # Recommended for true parallelism (listening while seeing)
 
 # --- Configuration (from voice_assistant.py) ---
-OPENWEATHERMAP_API_KEY = "80590db90b5686dc7b68057edb05d6ec" # YOUR OPENWEATHERMAP KEY
+OPENWEATHERMAP_API_KEY = " YOUR OPENWEATHERMAP KEY "
 UNFOCUS_TIMEOUT = 10 # Seconds until exit in focus mode (from face1.py)
 
 # --- Data (from voice_assistant.py) ---
@@ -223,4 +223,5 @@ def run_smart_assistant():
 
 # --- RUN THE ASSISTANT ---
 if __name__ == "__main__":
+
     run_smart_assistant()
