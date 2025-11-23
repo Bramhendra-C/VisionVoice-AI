@@ -17,7 +17,7 @@ except Exception:
     print("⚠️ pywhatkit disabled (no internet connection).")
 
 # --- CONFIGURATION (Uses API Key as requested) ---
-OPENWEATHERMAP_API_KEY = "80590db90b5686dc7b68057edb05d6ec" # YOUR OPENWEATHERMAP KEY
+OPENWEATHERMAP_API_KEY = " YOUR OPENWEATHERMAP KEY "
 MUSIC_DIR = "C:/projects/Vision/music"  # change path to your music folder
 
 # --- DATA ---
@@ -239,4 +239,5 @@ def run_assistant():
 
 # --- RUN DIRECTLY ---
 if __name__ == "__main__":
+
     run_assistant()
